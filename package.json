@@ -1,0 +1,15 @@
+{
+  "name": "m2-mock-api",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^4.3.2",
+    "vitest": "^0.31.1"
+  }
+}
